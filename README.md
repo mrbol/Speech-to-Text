@@ -5,8 +5,8 @@ Converta voz em texto de maneira precisa usando uma API desenvolvida com as tecn
 
 ## 💻 Sobre o Speech-to-Text
 
-Neste aplicativo Transcreva seu conteúdo em tempo real e forma automatica, Tem um proposito processar de audio sobe demanda aonde o sistema monitora uma pasta
-e processando todos arquvivos enviados para ela.
+Neste aplicativo Transcreva seu conteúdo em tempo real e forma automatica, Tem um proposito processar audios sob demanda aonde o sistema monitora uma pasta
+e processa todos arquvivos enviados para ela.
 
 
 ## ✨ Tecnologias
