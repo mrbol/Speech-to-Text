@@ -16,6 +16,6 @@ e processa todos arquvivos enviados para ela.
 
 ## 🔖 Dependencias
 
--   [ ] Ã‰ necessario ter conta Google Cloud e configurar o serviÃ§o Cloud Speech-to-Text
+-   [ ] É necessario ter conta Google Cloud e configurar o serviço Cloud Speech-to-Text
 - 	[ ] Instalação sox-14.4.1a-win32 e configurar na c:\sox
 
