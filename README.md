@@ -3,8 +3,7 @@
 
 Converta voz em texto de maneira precisa usando uma API desenvolvida com as tecnologias de IA do Google .  
 
-##  Sobre o Speech-to-Text
-
+##  Sobre 
 Neste aplicativo Transcreva seu conteÃºdo em tempo real e forma automatica,Â Tem um proposito processar audios sob demanda aonde o sistema monitora uma pasta
 e processa todos arquvivos enviados para ela.
 
