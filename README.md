@@ -1,7 +1,7 @@
 
 ## 💻 Speech-to-Text
 
-Converta voz em texto de maneira precisa usando uma API desenvolvida com as tecnologias de IA do Google .  
+Converta voz em texto com as tecnologias de IA do Google .  
 
 ##  Sobre 
 
